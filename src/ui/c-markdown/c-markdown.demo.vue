@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const md = `
-# IT Tools
+# Daily Dev Tools
 
 ## About
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis
