@@ -3,7 +3,7 @@ home:
     newestTools: Newest tools
     favoriteTools: 'Your favorite tools'
     allTools: 'All the tools'
-  subtitle: 'Daily dev tools for developers'
+  subtitle: 'Daily tools for developers'
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
