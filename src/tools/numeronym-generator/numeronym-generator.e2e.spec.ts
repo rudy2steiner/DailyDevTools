@@ -6,7 +6,7 @@ test.describe('Tool - Numeronym generator', () => {
   });
 
   test('Has correct title', async ({ page }) => {
-    await expect(page).toHaveTitle('Numeronym generator - Daily Dev Tools');
+    await expect(page).toHaveTitle('Numeronym generator - Dev Tools ');
   });
 
   test('a numeronym is generated when a word is entered', async ({ page }) => {

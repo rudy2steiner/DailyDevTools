@@ -39,7 +39,7 @@ const tools = computed<ToolCategory[]>(() => [
         <HeroGradient class="gradient" />
         <div class="text-wrapper">
           <div class="title">
-            Daily Dev Tools
+            Dev Tools
           </div>
           <div class="divider" />
           <div class="subtitle">
@@ -61,7 +61,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            Daily Dev Tools
+            Dev Tools
 
             <c-link target="_blank" rel="noopener" :href="`https://github.com/rudy2steiner/DailyDevTools/tree/v${version}`">
               v{{ version }}

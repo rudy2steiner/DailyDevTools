@@ -7,7 +7,7 @@ home:
   toggleMenu: 'Chuyển đổi menu'
   home: Trang chủ
   uiLib: 'Thư viện UI'
-  support: 'Hỗ trợ phát triển Daily Dev Tools'
+  support: 'Hỗ trợ phát triển Dev Tools '
   buyMeACoffee: 'Ủng hộ tác giả'
   follow:
     title: 'Bạn thích IT-tools?'
@@ -20,7 +20,7 @@ home:
     github: 'Kho GitHub'
     githubRepository: 'Kho GitHub IT-Tools'
     twitter: 'Tài khoản Twitter'
-    twitterAccount: 'Tài khoản Twitter Daily Dev Tools'
+    twitterAccount: 'Tài khoản Twitter Dev Tools '
     about: 'Về IT-Tools'
     aboutLabel: 'Giới thiệu'
     darkMode: 'Chế độ tối'

@@ -6,7 +6,7 @@ test.describe('Tool - Text to ASCII binary', () => {
   });
 
   test('Has correct title', async ({ page }) => {
-    await expect(page).toHaveTitle('Text to ASCII binary - Daily Dev Tools');
+    await expect(page).toHaveTitle('Text to ASCII binary - Dev Tools ');
   });
 
   test('Text to binary conversion', async ({ page }) => {
