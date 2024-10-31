@@ -34,3 +34,4 @@ coverage
 # Webkit with playwright creates a salt file
 salt
 *.iml
+*.idea
